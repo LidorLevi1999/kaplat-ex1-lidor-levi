@@ -1,0 +1,4 @@
+Create a new file called c.txt. 
+Fill it with some content (irrelevant) and commit it. 
+Call the commit C3 (capital case)
+
